@@ -4,7 +4,7 @@ A specialized language model fine-tuned for generating contextual responses to Y
 
 ## 🎯 Model Overview
 
-PRAKHAR-GPT is built on top of the Mistral-7B-Instruct-v0.2 model and fine-tuned using LoRA (Low-Rank Adaptation) to respond to YouTube comments in a natural, engaging manner. The model adapts its response length and technical depth based on the input comment.
+Engage-GPT is built on top of the Mistral-7B-Instruct-v0.2 model and fine-tuned using LoRA (Low-Rank Adaptation) to respond to YouTube comments in a natural, engaging manner. The model adapts its response length and technical depth based on the input comment.
 
 ### Base Model
 - **Base**: TheBloke/Mistral-7B-Instruct-v0.2-GPTQ (Quantized version)
@@ -57,7 +57,7 @@ The model was trained for 10 epochs with the following performance:
 ### Response Behavior
 - **Adaptive Length**: Matches response length to comment complexity
 - **Technical Depth**: Escalates technical detail upon request
-- **Signature**: Always ends with "–PRAKHAR-GPT"
+- **Signature**: Always ends with "–Engage-GPT"
 - **Natural Tone**: Maintains engaging, conversational style
 
 ### Training Dataset
