@@ -1,4 +1,4 @@
-# PRAKHAR-GPT: Fine-tuned YouTube Comment Response Model
+# Engage-GPT: Fine-tuned YouTube Comment Response Model
 
 A specialized language model fine-tuned for generating contextual responses to YouTube comments, functioning as a virtual data science consultant.
 
